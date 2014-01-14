@@ -12,3 +12,4 @@ So my dependencies are:
 - Jackson 2.3.0
 
 Feel free to use for any purposes. Comments and suggestions are welcome
+
