@@ -1,10 +1,8 @@
-spring-jersey-jackson-boilerplate
-=================================
+# spring-jersey-jackson-boilerplate
 
 Good starting point for the project that enables RESTful interface to access resources in JPA enabled datastore
 
-Intro
-=====
+## Intro
 
 I found myself struggling with different versions of different frameworks that I've been using in my projects that provide RESTful API for JPA enabled data store. I decided to spend some time to come up with boilerplate project that is using the most recent libraries to achieve my goal. 
 So my dependencies are:
