@@ -50,7 +50,5 @@ public class RESTApplication extends ResourceConfig {
     public RESTApplication () {
         packages("com.militeev.rest");
         register(RequestContextFilter.class);
-//        register(ObjectMapperProvider.class);
-//        register(JacksonFeature.class);
     }
 }

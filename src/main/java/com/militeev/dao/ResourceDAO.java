@@ -11,11 +11,4 @@ public class ResourceDAO extends AbstractDAO<Resource> {
         super(Resource.class);
     }
     
-    public void doWork() {
-        Resource r = new Resource();
-        r.setName("abc");
-        create(r);
-        entityManager.flush();
-    }
-    
 }
